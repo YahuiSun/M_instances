@@ -1597,7 +1597,7 @@ void Post_process_hand_MST_GPrA_different_growing_n() {
 
 	string initial_file;
 
-	for (int name = 42; name < 43; name++) {
+	for (int name = 32; name < 33; name++) {
 
 		double SMT_cost =1;
 
@@ -1625,7 +1625,7 @@ void Post_process_hand_MST_GPrA_different_growing_n() {
 				SMT_cost = 171.64;
 			}
 			else if (name == 32) {
-				SMT_cost = 485.98;
+				SMT_cost = 491.7332; // you previously wrongly used 485.98 in the Thinning paper
 			}
 			else if (name == 36) {
 				SMT_cost = 143.24;
@@ -1642,7 +1642,7 @@ void Post_process_hand_MST_GPrA_different_growing_n() {
 				SMT_cost = 125.43;
 			}
 			if (name == 42) {
-				SMT_cost = 720.29;
+				SMT_cost = 722.5082; // you previously wrongly used 720.29 in the Thinning paper
 			}
 		}
 		else if (name == 48) {
@@ -1697,7 +1697,7 @@ int main()
 {
 	std::cout << std::setprecision(4) << std::fixed;
 
-	Post_process_hand_FGW();
+	Post_process_hand_MST_GPrA_different_growing_n();
 	getchar();
 
 }
