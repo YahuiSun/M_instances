@@ -1,4 +1,4 @@
-# M_instances
+# Fast Heuristic Algorithms and Post-Processing Techniques for Prize-collecting Steiner tree
 
 
 This is for the paper: Sun, Yahui, et al. "The Fast Heuristic Algorithms and Post-Processing Techniques to Design Large and Low-Cost Communication Networks." IEEE/ACM Transactions on Networking (2019).
