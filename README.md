@@ -5,4 +5,4 @@ This is for the paper: Sun, Yahui, et al. "The Fast Heuristic Algorithms and Pos
 
 You may find the C++ codes for the algorithms in the above paper and the M instances.
 
-For any question, please contact Yahui Sun yahui.sun@anu.edu.au
+For any question, please contact Yahui Sun https://yahuisun.com
